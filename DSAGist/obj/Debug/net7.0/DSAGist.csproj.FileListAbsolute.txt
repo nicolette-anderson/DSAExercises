@@ -1,0 +1,15 @@
+/Users/nicoletteanderson/Projects/DSAGist/DSAGist/bin/Debug/net7.0/DSAGist
+/Users/nicoletteanderson/Projects/DSAGist/DSAGist/bin/Debug/net7.0/DSAGist.deps.json
+/Users/nicoletteanderson/Projects/DSAGist/DSAGist/bin/Debug/net7.0/DSAGist.runtimeconfig.json
+/Users/nicoletteanderson/Projects/DSAGist/DSAGist/bin/Debug/net7.0/DSAGist.dll
+/Users/nicoletteanderson/Projects/DSAGist/DSAGist/bin/Debug/net7.0/DSAGist.pdb
+/Users/nicoletteanderson/Projects/DSAGist/DSAGist/obj/Debug/net7.0/DSAGist.csproj.AssemblyReference.cache
+/Users/nicoletteanderson/Projects/DSAGist/DSAGist/obj/Debug/net7.0/DSAGist.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicoletteanderson/Projects/DSAGist/DSAGist/obj/Debug/net7.0/DSAGist.AssemblyInfoInputs.cache
+/Users/nicoletteanderson/Projects/DSAGist/DSAGist/obj/Debug/net7.0/DSAGist.AssemblyInfo.cs
+/Users/nicoletteanderson/Projects/DSAGist/DSAGist/obj/Debug/net7.0/DSAGist.csproj.CoreCompileInputs.cache
+/Users/nicoletteanderson/Projects/DSAGist/DSAGist/obj/Debug/net7.0/DSAGist.dll
+/Users/nicoletteanderson/Projects/DSAGist/DSAGist/obj/Debug/net7.0/refint/DSAGist.dll
+/Users/nicoletteanderson/Projects/DSAGist/DSAGist/obj/Debug/net7.0/DSAGist.pdb
+/Users/nicoletteanderson/Projects/DSAGist/DSAGist/obj/Debug/net7.0/DSAGist.genruntimeconfig.cache
+/Users/nicoletteanderson/Projects/DSAGist/DSAGist/obj/Debug/net7.0/ref/DSAGist.dll
