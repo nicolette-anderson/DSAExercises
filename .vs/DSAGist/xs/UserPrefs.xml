@@ -1,6 +1,9 @@
-﻿<Properties StartupConfiguration="{CB5831D8-146A-4DAE-B53C-A8C485B53851}|Default">
+﻿<Properties StartupConfiguration="{CB5831D8-146A-4DAE-B53C-A8C485B53851}|Default" GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.DSAGist PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="DSAGist/Program.cs">
     <Files>
       <File FileName="DSAGist/Program.cs" Line="36" Column="6" />
@@ -17,9 +20,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.DSAGist PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
 </Properties>
